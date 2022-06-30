@@ -31,4 +31,4 @@
 
 
 
-<b>maden by</b> anraow
+<b>made by</b> anraow
